@@ -20,4 +20,6 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  layouts:
+      application:
+          title: "Splik | El Sistema de Administración y contabilidad todo en uno Hecho en FileMaker."
